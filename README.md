@@ -6,21 +6,26 @@
 
 🚀 ***Cloud Application Project***
 This project demonstrates advanced cloud application development and deployment, focusing on security, high availability, and scalability.
+
 **RESTful API and Continuous Integration**
 Developed a scalable RESTful API with GitHub Actions for continuous integration
 Implemented comprehensive logging and metrics for performance monitoring
+
 **Scalability and Event-Driven Architecture**
 Deployed AutoScaling for dynamic capacity management based on CPU utilization
 Utilized Google Cloud Pub/Sub for efficient event-driven architecture
+
 **Secure Infrastructure Deployment**
 Established a secure GCP infrastructure with network and resource isolation
 Implemented IAM roles and security groups for strict access control
 Configured HTTPS-only communication via Application Load Balancer
 Managed SSL/TLS certificates through GCP Certificate Manager
 Utilized Cloud DNS for domain management
+
 **Automation and Encryption**
 Integrated GCP Cloud Functions for event-driven task automation
 Implemented Customer Managed Encryption Keys for database, instance templates, and bucket storage
+
 **Cloud Services Utilized**
 Virtual Private Cloud (VPC)
 External Application Load Balancer (ALB)
