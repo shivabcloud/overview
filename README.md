@@ -1,7 +1,9 @@
-                                                                                                🌐 ***Cloud Native Web Application***
+<h1 align="center">
+🌐 Cloud Native Web Application
+</h1>
+
 
 ***Architecture Diagram***
-
 ![333241066-65d55fcf-fbfa-4c21-b471-f563c67a2bc6](https://github.com/user-attachments/assets/d30c5c90-fe02-4aec-936b-ba06cfb07598)
 
 🚀 ***Cloud Application Project***
