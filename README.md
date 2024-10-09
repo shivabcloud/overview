@@ -39,20 +39,20 @@ This project demonstrates advanced cloud application development and deployment,
 This project showcases a comprehensive approach to cloud-native application development, emphasizing security, scalability, and efficient resource management in a Google Cloud Platform environment.
 Used Customer Managed Encryption Keys to manage encryption for the Cloud Database, Instance Templates and Bucket Storage
 
--☁️ List of Cloud services used:
--
--🌐 VPC (Virtual private cloud)
--⚖️ External Application Load Balancer (ALB)
--⚖️ Auto Scaler for Managed Group Instances (MIG)
--🔍 Ops Agent (Logs and metrics)
--🔑 Cloud Key Management Service
--☁️ Cloud DNS
--💻 Virtual Machines
--🗄️ Cloud SQL
--🛠️ Code
--
--For more specific implementation details, visit the repos :
+☁️ List of Cloud services used:
 
--Application and REST APIs : https://github.com/shivabcloud/webapp
--Infrastructure: https://github.com/shivabcloud/tf-gcp-infra
--Cloud Function: https://github.com/shivabcloud/serverless
+🌐 VPC (Virtual private cloud)
+⚖️ External Application Load Balancer (ALB)
+⚖️ Auto Scaler for Managed Group Instances (MIG)
+🔍 Ops Agent (Logs and metrics)
+🔑 Cloud Key Management Service
+☁️ Cloud DNS
+💻 Virtual Machines
+🗄️ Cloud SQL
+🛠️ Code
+
+For more specific implementation details, visit the repos :
+
+Application and REST APIs : https://github.com/shivabcloud/webapp
+Infrastructure: https://github.com/shivabcloud/tf-gcp-infra
+Cloud Function: https://github.com/shivabcloud/serverless
