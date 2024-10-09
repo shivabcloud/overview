@@ -1,4 +1,4 @@
-🌐 ***Cloud Native Web Application***
+                                                                                                🌐 ***Cloud Native Web Application***
 
 ***Architecture Diagram***
 
@@ -34,7 +34,7 @@ This project demonstrates advanced cloud application development and deployment,
 - Cloud Key Management Service
 - Cloud DNS
 - Virtual Machines
--Cloud SQL
+- Cloud SQL
 
 This project showcases a comprehensive approach to cloud-native application development, emphasizing security, scalability, and efficient resource management in a Google Cloud Platform environment.
 Used Customer Managed Encryption Keys to manage encryption for the Cloud Database, Instance Templates and Bucket Storage
@@ -58,6 +58,7 @@ Used Customer Managed Encryption Keys to manage encryption for the Cloud Databas
 🗄️ Cloud SQL
 
 🛠️ Code
+
 
 For more specific implementation details, visit the repos :
 
